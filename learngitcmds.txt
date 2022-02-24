@@ -1,0 +1,2 @@
+Hi there learning how to use git 
+Doing some changes to the file
